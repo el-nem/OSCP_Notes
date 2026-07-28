@@ -1,10 +1,5 @@
 # Penetration Testing Process
 
-Difficulty: Easy
-Platform: General
-Status: Solid
-Type: Concept
-
 # Pre-Engagement interactions
 
 During this phase, we define :
