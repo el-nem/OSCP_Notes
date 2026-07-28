@@ -25,7 +25,7 @@ During this phase, we define :
 In this phase, we collect information about the target system via 3 ways :
 
 - **Active Recon:** Directly interacting with the target to elicit information from it, such as ping sweeps or port scans.
-- **Passive Recon:** This is when information is gathered without having any direct interaction with the target. This would include *includes* OSINT (WHOIS, social media, public records) as its main technique
+- **Passive Recon:** This is when information is gathered without having any direct interaction with the target. This would include OSINT (WHOIS, social media, public records) as its main technique
     - **Open Source Intelligence (OSINT):** Exploiting open-source data to develop an understanding of the target, such as from company websites or forums.
 
 ---
