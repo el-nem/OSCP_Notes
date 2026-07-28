@@ -4,7 +4,7 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
 ## 📚 Contents
 
-- [Intro to Pentesting](notes/intro-to-pentest.md) — what pentesting is, methodology overview, mindset
+- [Introduction to Penetration Testing](General/Introduction to Penetration Testing.md) — what pentesting is, methodology overview, mindset
 - [Pentest Process](notes/pentest-process.md) — the standard phases: recon, enumeration, exploitation, privesc, reporting
 
 More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
