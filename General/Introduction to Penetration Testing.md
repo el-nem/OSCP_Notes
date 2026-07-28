@@ -1,10 +1,6 @@
 # Introduction to Penetration Testing
 
-Difficulty: Easy
-Platform: General
 Resources: https://academy.hackthebox.com/app/module/295
-Status: Solid
-Type: Concept
 
 # What is penetration testing?
 
@@ -45,23 +41,23 @@ Type: Concept
 
 # **Types of Penetration Tests**
 
-#### **Black Box Testing**
+### **Black Box Testing**
 
 The team began with a black box test, simulating an external attacker with `no prior knowledge` of the bank's systems. They attempted to gain unauthorized access to the online banking platform by exploiting public-facing vulnerabilities. This phase revealed several critical issues, including an outdated SSL certificate and a SQL injection vulnerability in the login page.
 
-#### **White Box Testing**
+### **White Box Testing**
 
 Next, the team conducted a white box test with `full access` to the bank's network architecture, source code, and system configurations. This insider perspective allowed them to identify misconfigurations in the firewall rules, weak password policies for internal systems, and unpatched software on several servers.
 
-#### **Gray Box Testing**
+### **Gray Box Testing**
 
 Finally, a gray box test was performed, simulating a scenario where an attacker had gained `limited` internal access. With partial knowledge of the network, the team discovered an unsecured Wi-Fi network in a branch office and exploited it to gain further access to the internal network.
 
-#### `External testing`
+### *External testing*
 
 focuses on assets and services that are publicly accessible via the internet, including but not limited to web servers, email servers, DNS servers, and other externally-facing infrastructure components. This type of testing simulates how an attacker might attempt to breach an organization's defenses from the outside, evaluating the security of internet-facing systems and identifying potential vulnerabilities that could be exploited by malicious actors operating remotely.
 
-#### `Internal testing`
+### *Internal testing*
 
  on the other hand, is conducted from within the organization's network infrastructure. Unlike a hacker shielded by the anonymity of the internet, this type of testing simulates attacks that could be initiated by malicious insiders with legitimate access, or external threat actors who have successfully breached the network's perimeter defenses. Internal testing provides valuable insight, exposing the possible attack vectors available to those with a pre-existing foothold to the network (such as through compromised credentials, social engineering, or other means of unauthorized access.)
 
