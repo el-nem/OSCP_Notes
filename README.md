@@ -10,6 +10,9 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
     
 - Information Gathering
   - [Passive Information Gathering](Information%20Gathering/Passive_Information_Gathering.md)
+
+
+
 More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
 
 ## 🎯 Goal
