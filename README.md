@@ -8,7 +8,7 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
   - [Intro to Pentesting](General/Introduction_to_Penetration_Testing.md) — what pentesting is, methodology overview, mindset
   - [Penetration Testing Process](General/Penetration_Testing_Process.md) — the standard phases: Pre-Engagement interactions, Intelligence gathering, Threat Modeling, Vulnerability Analysis, Exploitation, Post-Exploitation, reporting
 - Information Gathering
-  - [Passive Information Gathering]([Information Gathering/Passive_Information_Gathering.md](https://github.com/el-nem/OSCP_Notes/blob/6336d1b7c9ddb37573dc7a80d8e296113ac4f2a8/Information%20Gathering/Passive_Information_Gathering.md))
+  - [Passive Information Gathering](Information%20Gathering/Passive_Information_Gathering.md)
 More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
 
 ## 🎯 Goal
