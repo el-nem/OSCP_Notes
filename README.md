@@ -4,7 +4,6 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
 ## 📚 Contents
 
-- General
   * [Intro to Pentesting](General/Introduction%20to%20Penetration%20Testing.md) — what pentesting is, methodology overview, mindset
   * [Penetration Testing Process](General/Penetration%20Testing%20Process.md) — the standard phases: Pre-Engagement, Intelligence Gathering, Threat Modeling, Vulnerability Analysis, Exploitation, Post-Exploitation, Reporting
 
@@ -25,8 +24,7 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 * [SMB Enumeration Tools Cheatsheet](Cheatsheets/SMB%20Enumeration%20Tools%20Cheatsheet.md)
 * [SMTP Enumeration Cheatsheet](Cheatsheets/SMTP%20Enumeration%20Cheatsheet.md)
 * [SNMP Enumeration Tools Cheatsheet](Cheatsheets/SNMP%20Enumeration%20Tools%20Cheatsheet.md)
-* [Windows Native Recon Cheatsheet](Cheatsheets/Windows%20Native%20Recon%20Cheatsheet.md)
-* [Linux Native Recon Cheatsheet](Cheatsheets/Linux%20Native%20Recon%20Cheatsheet.md)
+
 
 </details>
 
