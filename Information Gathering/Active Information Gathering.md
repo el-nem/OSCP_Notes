@@ -6,6 +6,7 @@ Tags: Enumeration
 Type: Technique
 
 # Netcat Port Scanning and Banner Grabbing
+📎 Full command reference: [Netcat Cheatsheet](../Cheat%20Sheet/Netcat.md)
 
 - Netcat (`nc`) is a raw TCP/UDP connection tool.
 - Many services announce themselves immediately on connection (SSH, FTP, SMTP) — this alone can confirm software and version without a full scan.
@@ -65,6 +66,7 @@ fping -a -g 10.10.10.0/24     # fast alternative sweep tool
 ---
 
 # Port Scanning with Nmap
+📎 Full command reference: [Nmap Cheatsheet](../Cheat%20Sheet/Nmap.md)
 
 **Basic scan (top 1000 ports):**
 
@@ -124,6 +126,7 @@ nmap -oA scan_all 10.10.10.5      # all three formats at once
 ---
 
 # DNS Enumeration
+📎 Full command reference: [DNS Enumeration Tools Cheatsheet](../Cheat%20Sheet/DNS%20Enumeration.md)
 
 #### Resource Record Types
 
@@ -173,6 +176,7 @@ nslookup -type=MX target.com        # specific record type on Windows
 ---
 
 # SMB Enumeration
+📎 Full command reference: [SMB Enumeration Tools Cheatsheet](../Cheat%20Sheet/SMB%20Enumeration.md)
 
 #### smbclient
 
@@ -222,6 +226,7 @@ nmap --script smb-os-discovery,smb-enum-shares,smb-enum-users -p 445 10.10.10.5
 ---
 
 # SMTP Enumeration
+📎 Full command reference: [SMTP Enumeration Cheatsheet](../Cheat%20Sheet/SMTP%20Enumeration.md)
 
 #### VRFY / EXPN Commands
 
@@ -253,6 +258,7 @@ nmap --script smtp-commands -p 25 10.10.10.5
 ---
 
 # SNMP Enumeration
+📎 Full command reference: [SNMP Enumeration Tools Cheatsheet](../Cheat%20Sheet/SNMP%20Enumeration.md)
 
 - SNMP (Simple Network Management Protocol) is often overlooked but can leak enormous amounts of internal information when misconfigured with default/weak community strings.
 
