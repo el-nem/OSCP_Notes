@@ -18,12 +18,12 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 <details>
 <summary><strong>Cheatsheets</strong></summary>
 
-* [Nmap Cheatsheet](Cheatsheets/Nmap%20Cheatsheet.md)
-* [Netcat Cheatsheet](Cheatsheets/Netcat%20Cheatsheet.md)
-* [DNS Enumeration Tools Cheatsheet](Cheatsheets/DNS%20Enumeration%20Tools%20Cheatsheet.md)
-* [SMB Enumeration Tools Cheatsheet](Cheatsheets/SMB%20Enumeration%20Tools%20Cheatsheet.md)
-* [SMTP Enumeration Cheatsheet](Cheatsheets/SMTP%20Enumeration%20Cheatsheet.md)
-* [SNMP Enumeration Tools Cheatsheet](Cheatsheets/SNMP%20Enumeration%20Tools%20Cheatsheet.md)
+* [Nmap Cheatsheet](Cheat%20Sheet/Nmap.md)
+* [Netcat Cheatsheet](Cheat%20Sheet/Netcat.md)
+* [DNS Enumeration Tools Cheatsheet](Cheat%20Sheet/DNS%20Enumeration.md)
+* [SMB Enumeration Tools Cheatsheet](Cheat%20Sheet/SMB%20Enumeration.md)
+* [SMTP Enumeration Cheatsheet](Cheat%20Sheet/SMTP%20Enumeration.md)
+* [SNMP Enumeration Tools Cheatsheet](Cheat%20Sheet/SNMP%20Enumeration.md)
 
 
 </details>
