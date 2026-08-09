@@ -4,16 +4,33 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
 ## 📚 Contents
 
-- [Introduction to Penetration Testing](Introduction%20to%20Penetration%20Testing.md)
-- [Penetration Testing Process](Penetration%20Testing%20Process.md)
+- General
+  * [Intro to Pentesting](General/Introduction%20to%20Penetration%20Testing.md) — what pentesting is, methodology overview, mindset
+  * [Penetration Testing Process](General/Penetration%20Testing%20Process.md) — the standard phases: Pre-Engagement, Intelligence Gathering, Threat Modeling, Vulnerability Analysis, Exploitation, Post-Exploitation, Reporting
 
-- Information Gathering
-  - [Active Information Gathering](Information%20Gathering/Active%20Information%20Gathering.md)
-  - [Passive Information Gathering](Information%20Gathering/Passive%20Information%20Gathering.md)
+<details>
+<summary><strong>Information Gathering</strong></summary>
 
+* [Passive Information Gathering](Information%20Gathering/Passive%20Information%20Gathering.md) — OSINT, WHOIS, DNS, Google dorking, Netcraft, Shodan, SSL/TLS checks
+* [Active Information Gathering](Information%20Gathering/Active%20Information%20Gathering.md) — Nmap, DNS enumeration, SMB/SMTP/SNMP enumeration, living off the land
 
+</details>
 
-More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
+<details>
+<summary><strong>Cheatsheets</strong></summary>
+
+* [Nmap Cheatsheet](Cheatsheets/Nmap%20Cheatsheet.md)
+* [Netcat Cheatsheet](Cheatsheets/Netcat%20Cheatsheet.md)
+* [DNS Enumeration Tools Cheatsheet](Cheatsheets/DNS%20Enumeration%20Tools%20Cheatsheet.md)
+* [SMB Enumeration Tools Cheatsheet](Cheatsheets/SMB%20Enumeration%20Tools%20Cheatsheet.md)
+* [SMTP Enumeration Cheatsheet](Cheatsheets/SMTP%20Enumeration%20Cheatsheet.md)
+* [SNMP Enumeration Tools Cheatsheet](Cheatsheets/SNMP%20Enumeration%20Tools%20Cheatsheet.md)
+* [Windows Native Recon Cheatsheet](Cheatsheets/Windows%20Native%20Recon%20Cheatsheet.md)
+* [Linux Native Recon Cheatsheet](Cheatsheets/Linux%20Native%20Recon%20Cheatsheet.md)
+
+</details>
+
+More notes will be added as I progress through my studies (privilege escalation, Active Directory, web attacks, tooling, etc.).
 
 ## 🎯 Goal
 
@@ -22,4 +39,3 @@ Working toward the OSCP certification. This repo is a living document — expect
 ## 🤝 Contributing / Feedback
 
 Still learning, so if you spot mistakes or have suggestions, feel free to open an issue or PR!
-
