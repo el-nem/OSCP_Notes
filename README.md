@@ -6,6 +6,13 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
 - [Introduction to Penetration Testing](Introduction%20to%20Penetration%20Testing.md)
 - [Penetration Testing Process](Penetration%20Testing%20Process.md)
+
+- Information Gathering
+  - [Active Information Gathering](Information%20Gathering/Active%20Information%20Gathering.md)
+  - [Passive Information Gathering](Information%20Gathering/Passive%20Information%20Gathering.md)
+
+
+
 More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
 
 ## 🎯 Goal
