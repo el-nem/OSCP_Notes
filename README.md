@@ -4,8 +4,8 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
 ## 📚 Contents
 
-
-
+- [Introduction to Penetration Testing](Introduction%20to%20Penetration%20Testing.md)
+- [Penetration Testing Process](Penetration%20Testing%20Process.md)
 More notes will be added as I progress through my studies (enumeration cheat sheets, privilege escalation, Active Directory, tooling, etc.).
 
 ## 🎯 Goal
