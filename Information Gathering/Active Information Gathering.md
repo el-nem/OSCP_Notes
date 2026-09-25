@@ -1,9 +1,5 @@
 # Active Information Gathering
 
-Platform: General
-Status: Solid
-Tags: Enumeration
-Type: Technique
 
 # Netcat Port Scanning and Banner Grabbing
 📎 Full command reference: [Netcat Cheatsheet](../Cheat%20Sheet/Netcat.md)
