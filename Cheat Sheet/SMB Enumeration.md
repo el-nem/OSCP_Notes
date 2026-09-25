@@ -1,9 +1,5 @@
 # SMB Enumeration
 
-Platform: General
-Status: Solid
-Tags: Enumeration
-Type: cheat sheet
 
 # smbclient
 
