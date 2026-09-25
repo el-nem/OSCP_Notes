@@ -6,6 +6,7 @@ Personal notes from my journey studying for the OSCP (Offensive Security Certifi
 
   * [Intro to Pentesting](Introduction%20to%20Penetration%20Testing.md) — what pentesting is, methodology overview, mindset
   * [Penetration Testing Process](Penetration%20Testing%20Process.md) — the standard phases: Pre-Engagement, Intelligence Gathering, Threat Modeling, Vulnerability Analysis, Exploitation, Post-Exploitation, Reporting
+  * [Vulnerability Scanning](Vulnerability%20Scanning.md) — resources used to learn Nessus and Nmap for vulnerability scanning
 
 <details>
 <summary><strong>Information Gathering</strong></summary>
