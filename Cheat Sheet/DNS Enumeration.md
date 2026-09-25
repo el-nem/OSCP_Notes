@@ -1,9 +1,5 @@
 # DNS Enumeration
 
-Status: Solid
-Tags: Enumeration
-Type: cheat sheet
-
 ## dig
 
 ```bash
