@@ -1,9 +1,8 @@
 # Introduction to Penetration Testing
 
-Platform: General
-Resources: https://academy.hackthebox.com/app/module/295
-Status: Solid
-Type: Concept
+
+- Resources: https://academy.hackthebox.com/app/module/295
+
 
 # What is penetration testing?
 
