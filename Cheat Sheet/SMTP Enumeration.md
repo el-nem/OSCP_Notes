@@ -1,10 +1,5 @@
 # SMTP Enumeration
 
-Platform: General
-Status: Solid
-Tags: Enumeration
-Type: cheat sheet
-
 # Manual Banner Grabbing & Interaction
 
 ```bash
