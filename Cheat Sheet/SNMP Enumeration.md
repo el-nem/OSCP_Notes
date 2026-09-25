@@ -1,9 +1,5 @@
 # SNMP Enumeration
 
-Platform: General
-Status: Solid
-Tags: Enumeration
-Type: cheat sheet
 
 # Community String Brute-Forcing
 
