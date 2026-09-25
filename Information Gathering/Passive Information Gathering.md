@@ -1,10 +1,5 @@
 # Passive Information Gathering
 
-Platform: General
-Status: Solid
-Tags: Enumeration
-Type: Technique
-
 # Main Approaches to Passive Information Gathering
 
 - **Open Source Intelligence (OSINT) / Public Sources** ⇒ Gathering data from sources that are already public (company websites, social media, forums, public code repositories, news articles, job postings
