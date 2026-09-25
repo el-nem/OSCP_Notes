@@ -1,9 +1,5 @@
 # Penetration Testing Process
 
-Platform: General
-Status: Solid
-Tags: Enumeration, Exploitation, Post Exploitation, Reporting
-Type: Concept
 
 # Pre-Engagement interactions
 
