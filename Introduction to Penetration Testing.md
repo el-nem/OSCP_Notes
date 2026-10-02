@@ -16,7 +16,7 @@
 
 # Penetration testing process
 
-![image.png](images/Introduction%20to%20Penetration%20Testing/image.png)
+![image.png](images/image.png)
 
 1. It starts with `reconnaissance` (also known as `information gathering`), where testers gather information about the target organization, system, or network, like scouting out a building before planning a break-in.
 2. Next, in the `vulnerability assessment` phase, they use tools to spot weak points, similar to checking for unlocked windows or doors.
