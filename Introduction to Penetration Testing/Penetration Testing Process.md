@@ -1,5 +1,7 @@
 # Penetration Testing Process
 
+> This is the PTES process (7 phases). The simple 5-phase version is in `Introduction to Penetration Testing`.
+
 
 # Pre-Engagement interactions
 
@@ -23,10 +25,10 @@ During this phase, we define :
 
 # Intelligence gathering
 
-In this phase, we collect information about the target system via 3 ways :
+In this phase, we collect information about the target system via 2 ways :
 
 - **Active Recon:** Directly interacting with the target to elicit information from it, such as ping sweeps or port scans.
-- **Passive Recon:** This is when information is gathered without having any direct interaction with the target. This would include *includes* OSINT (WHOIS, social media, public records) as its main technique
+- **Passive Recon:** This is when information is gathered without having any direct interaction with the target. This mostly uses OSINT (WHOIS, social media, public records) as its main technique
     - **Open Source Intelligence (OSINT):** Exploiting open-source data to develop an understanding of the target, such as from company websites or forums.
 
 ---
@@ -88,7 +90,7 @@ In this phase, when we get initial access to the system, we see the machine that
 
 # Reporting
 
-In this phase, we write all technical findings, exploits, and post-exploit successes into a structured document that helps the customer understand their risk. We should give POCs and cases, and how customers can solve these findings and wht is finacial and operaonal risk
+In this phase, we write all technical findings, exploits, and post-exploit successes into a structured document that helps the customer understand their risk. We should give POCs (proof of concept) and examples, how the customer can fix each finding, and what the financial and operational risk is
 
 **Core components:**
 
